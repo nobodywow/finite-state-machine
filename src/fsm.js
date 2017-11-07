@@ -33,7 +33,6 @@ class FSM {
         else {
             throw new Error();
         }
-
     }
 
     reset() {
